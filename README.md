@@ -10,4 +10,5 @@ So top score will always be 0 after running game
 
 Game can be ran from Debug or Release
 
+
 ![picture](https://github.com/Jadamka/Dodger-SFML/assets/59932297/ce48ddf8-f6a5-4c7b-a06a-640a7486d463)
